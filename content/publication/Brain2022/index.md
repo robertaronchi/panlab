@@ -16,7 +16,7 @@ projects: [TOM]
 publication: 'Brain, 145(5):1818–1829'
 publication_short: "Brain, 145(5):1818–1829"
 publication_types:
-- "paper"
+- "journal article"
 publishDate: "2022-03-08T00:00:00Z"
 slides: 
 summary:

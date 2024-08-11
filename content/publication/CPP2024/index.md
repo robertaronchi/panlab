@@ -24,7 +24,7 @@ projects: []
 publication: 'Clinical Psychology and Psychotherapy, 31:e2969'
 publication_short: "CPP, 31:e2969"
 publication_types:
-- "2"
+- "journal article"
 publishDate: "2024-03-04T00:00:00Z"
 slides: 
 summary:

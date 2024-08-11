@@ -15,7 +15,7 @@ projects: []
 publication: 'Cortex, 128:218-233'
 publication_short: "Cortex, 128:218-233"
 publication_types:
-- "2"
+- "journal article"
 publishDate: "2015-09-01T00:00:00Z"
 slides: 
 summary:

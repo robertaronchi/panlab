@@ -17,7 +17,7 @@ projects: []
 publication: 'Cerebral Cortex, 18, 2879-2890'
 publication_short: "Cerebral Cortex, 18, 2879-2890"
 publication_types:
-- "2"
+- "journal article"
 publishDate: "2008-12-01T00:00:00Z"
 slides: 
 summary:
