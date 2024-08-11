@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: ccd_robot
   theme_night:
-  font: native
+  font: rose
   font_size: L
 
 # SEO
