@@ -16,7 +16,7 @@ projects: [manage, expectancy]
 publication: 'European Journal of Pain, 26, 1163–1175.'
 publication_short: "Eur J Pain, 26, 1163–1175"
 publication_types:
-- "2"
+- ["article-journal"]
 publishDate: "2022-03-13T00:00:00Z"
 slides: 
 summary:

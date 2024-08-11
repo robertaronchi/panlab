@@ -15,7 +15,7 @@ projects: [embody]
 publication: 'European Journal of Pain, 23, 1283-1296'
 publication_short: "Eur J Pain, 23, 1283-1296"
 publication_types:
-- "2"
+- ["article-journal"]
 publishDate: "2019-01-01T00:00:00Z"
 slides: 
 summary:

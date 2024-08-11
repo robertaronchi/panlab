@@ -17,7 +17,7 @@ projects: [embody]
 publication: 'Cortex, 130:16-31'
 publication_short: "Cortex, 130:16-31"
 publication_types:
-- "journal article"
+- ["article-journal"]
 publishDate: "2020-09-01T00:00:00Z"
 slides: 
 summary:
