@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Corrado Corradi-Dell'Acqua
         Research Group
       image:
         filename: welcome.jpg
@@ -58,7 +58,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Papers
       text: ""
       count: 5
       filters:

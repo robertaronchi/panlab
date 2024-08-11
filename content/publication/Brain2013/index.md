@@ -19,7 +19,7 @@ projects: []
 publication: 'Brain. 136(8), 2602-2618'
 publication_short: "Brain. 136(8), 2602-2618"
 publication_types:
-- "2"
+- "article"
 publishDate: "2013-07-01T00:00:00Z"
 slides: 
 summary:
