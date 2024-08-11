@@ -81,7 +81,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
 
 I am a Cognitive neuroscientist and psychologist with long-lasting  experience in the study of the human adult brain, through behavioral measures, electrophysiology and brain imaging. I'm interested in the study of the neural mechanisms underlying pain, personal affect and their interaction with social cognition and decision-making.
