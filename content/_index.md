@@ -65,9 +65,9 @@ sections:
         folders:
           - publication
         publication_type: "2"
-        featured: true
+        featured_only: true
     spacing:
-        padding: ['20px', '10px', '20px', '0']
+        padding: ['20px', '30px', '20px', '0']
     design:
       view: card
       columns: '1'
