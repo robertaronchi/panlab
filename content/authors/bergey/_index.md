@@ -15,7 +15,7 @@ organizations:
 
 weight: 2
 
-website: https://clairebergey.net/
+website:
 
 # Short bio (displayed in user profile at end of posts)
 long_bio: Claire is a fifth-year PhD student in the Cognition program at the University of Chicago, having formerly studied psychology and cognitive science at Williams College. She is interested in language and concept acquisition. Her research centers on how children learn to express and interpret meaning in language that goes beyond what is literally said, and how they integrate what they glean from conversation with their own experience to gain a fuller picture of the world.
