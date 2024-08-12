@@ -25,7 +25,7 @@ long_bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: x-twitter
+- icon: fa-x-twitter
   icon_pack: fab
   link: https://x.com/GiadaDirupo
 - icon: researchgate

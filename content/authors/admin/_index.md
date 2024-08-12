@@ -30,8 +30,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:corrado.corradi@outlook.com #'/#contact'
-  - icon: x-twitter
-    icon_pack: fab
+  - icon: fa-x-twitter
+    icon_pack: fa-brands
     link: https://x.com/CorradoCorradiD
   - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
@@ -42,8 +42,8 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@CCD
-  - icon: bluesky
-    icon_pack: fab
+  - icon: fa-bluesky
+    icon_pack: fa-brands
     link: https://bsky.app/profile/ccorradi.bsky.social
   - icon: linkedin
     icon_pack: fab
