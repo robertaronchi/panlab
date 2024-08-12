@@ -66,10 +66,8 @@ sections:
           - publication
         publication_type: "2"
         featured_only: true
-    spacing:
-        padding: ['20px', '30px', '20px', '0']
     design:
-      view: card
+      view: Card
       columns: '2'
 
   - block: tag_cloud
@@ -81,8 +79,6 @@ sections:
         taxonomy: tags
         # Choose how many tags you would like to display (0 = all tags)
         count: 20
-    spacing:
-        padding: ['20px', '50px', '20px', '0']
     design:
       font_size_min: 0.7
       font_size_max: 2.0
