@@ -58,15 +58,16 @@ sections:
 
   - block: collection
     content:
-      title: Latest Papers
+      title: Featured Papers
       text: ""
       count: 5
       filters:
         folders:
           - publication
         publication_type: ["article-journal"]
+        featured: true
     design:
-      view: citation
+      view: card
       columns: '1'
 
   - block: markdown
