@@ -65,7 +65,7 @@ sections:
           - project
         featured_only: false
     design:
-      view: Card
+      view: compact
       columns: '2'
 
   - block: collection
