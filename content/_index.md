@@ -59,16 +59,13 @@ sections:
   - block: collection
     content:
       title: Ongoing Projects
-      subtitle:
-      text:
-      count: 1
+      text: ""
       filters:
         folders:
-          - project      
-      order: desc
-      page_type: post
+          - project
+        featured_only: false
     design:
-      view: card
+      view: Card
       columns: '2'
 
   - block: collection
