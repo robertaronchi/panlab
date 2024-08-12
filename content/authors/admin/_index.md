@@ -30,8 +30,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:corrado.corradi@outlook.com #'/#contact'
-  - icon: x-twitter-brands-solid
-    icon_pack: custom
+  - icon: twitter
+    icon_pack: fab
     link: https://x.com/CorradoCorradiD
   - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
@@ -42,12 +42,12 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@CCD
-  - icon: bluesky
+  - icon: cloud
     icon_pack: fas
     link: https://bsky.app/profile/ccorradi.bsky.social
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/corrado-corradi/
+    link: https://bsky.app/profile/ccorradi.bsky.social
   - icon: cv
     icon_pack: ai
     link: uploads/CV_ENG.pdf
@@ -59,7 +59,7 @@ email: ""
 highlight_name: false
 
 authors:
-  -corradi
+  -Corradi˗Dell'Acqua
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

@@ -25,7 +25,7 @@ long_bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: fa-x-twitter
+- icon: twitter
   icon_pack: fab
   link: https://x.com/GiadaDirupo
 - icon: researchgate
@@ -49,7 +49,7 @@ email: ""
 highlight_name: true
 
 authors:
-  -dirupo
+  -Dirupo
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
