@@ -56,7 +56,7 @@ sections:
 #        padding: ['20px', '0', '20px', '0']
 #      css_class: fullscreen
 
-  - block: featured
+  - block: collection
     content:
       title: Featured Papers
       text: ""
@@ -65,6 +65,7 @@ sections:
         folders:
           - publication
         publication_type: "2"
+        featured: true
     design:
       view: card
       columns: '1'
