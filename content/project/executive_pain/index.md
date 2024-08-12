@@ -1,6 +1,6 @@
 ---
 title: Regulating Pain
-summary: How pain interacts with high level executive functions.
+summary: How pain interacts with high level executive functions? Pain disrupts attention and impairs performance during cognitive tasks, while distracting someone has hypoalgesic effects. Other studies suggest that pain and cognitive control interact with one another, whereby exerting one's regulatory abilities influences subsequent pain experience. The present project aims at investigating with further detail the interplay between pain and the different facets of one's executive functions, and at identifying the neural circuitry mediating this interaction.
 tags:
 - pain
 - nociception

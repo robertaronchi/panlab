@@ -1,6 +1,8 @@
 ---
 title: Expecting Pain
-summary: How expectations shape pain sensitivity and relief.
+
+summary: Subjective pain experiences do not only reflect nociceptive input but also individuals' previous expectations and beliefs. Expectancy modulations are noteworthy for their clinical implications, as convincing individuals of the effectiveness of an analgesic might induce a strong pain relief (placebo effect). Furthermore, expectancy effects have sparkled a major theoretical debate, with influential models suggesting that pain symptoms might be better explained through a Bayesian framework, where the brain estimates the (posterior) probability of body damage, based on the integration of sensory inputs and prior representations.
+
 tags:
 - pain
 - nociception
@@ -14,6 +16,7 @@ tags:
 - Top-down
 - Insula
 - Cingulate Cortex
+
 date: "2019-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
