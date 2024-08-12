@@ -58,6 +58,18 @@ sections:
 
   - block: collection
     content:
+      title: Ongoing Projects
+      text: ""
+      filters:
+        folders:
+          - project
+    design:
+      view: Card
+      columns: '2'
+      flip_alt_rows: false
+
+  - block: collection
+    content:
       title: Featured Papers
       text: ""
       count: 0
