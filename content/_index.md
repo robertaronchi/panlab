@@ -65,7 +65,6 @@ sections:
         folders:
           - publication
         publication_type: ["article-journal"]
-        featured: true
     design:
       view: card
       columns: '1'
