@@ -22,7 +22,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 1
       filters:
         author: ''
         category: ''
@@ -60,7 +60,7 @@ sections:
     content:
       title: Last Papers
       text: ""
-      count: 5
+      count: 3
       filters:
         folders:
           - publication
@@ -69,6 +69,21 @@ sections:
       offset: 0
     design:
       view: card
+      columns: '1'
+
+  - block: tag_cloud
+    content: 
+      title: Popular Topics
+      subtitle:
+      content:
+        # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
+        taxonomy: tags
+        # Choose how many tags you would like to display (0 = all tags)
+        count: 20
+    offset: 2
+    design:
+      font_size_min: 0.7
+      font_size_max: 2.0
       columns: '1'
 
   - block: markdown
@@ -80,18 +95,4 @@ sections:
     design:
       columns: '1'
 
-
-  - block: tag_cloud
-    content: 
-      title: Popular Topics
-      subtitle:
-      content:
-        # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
-        taxonomy: tags
-        # Choose how many tags you would like to display (0 = all tags)
-        count: 20
-    design:
-      font_size_min: 0.7
-      font_size_max: 2.0
-      columns: '1'
 ---
