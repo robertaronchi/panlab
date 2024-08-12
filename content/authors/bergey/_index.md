@@ -10,7 +10,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Chicago
+- name:
   url: ""
 
 weight: 2
