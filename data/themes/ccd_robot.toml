@@ -1,18 +1,24 @@
 # Theme metadata
 name = "CCD Robot"
 
-[light]
-  # Primary
-  primary = "rgb(0, 136, 204)"
+# Is theme light or dark?
+light = true
 
-  # Menu
-  menu_primary = "rgb(33, 37, 41)"
-  menu_text = "rgb(53, 187, 224)"
-  menu_text_active = "rgba(255,255,255,1)"
-  menu_title = "rgb(153, 153, 153)"
+# Primary
+primary = "#0088CC"
 
-  # Backgrounds
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(255, 255, 255)"
+# Menu
+menu_primary = "#21252F"
+menu_text = "#35BBE0"
+menu_text_active = "#fff"
+menu_title = "#999999"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
 
   
