@@ -12,7 +12,7 @@ weight: 1
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Mind/Brain Sciences - University of Trento
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
