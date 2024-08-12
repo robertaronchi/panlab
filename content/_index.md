@@ -65,8 +65,8 @@ sections:
           - project
     design:
       view: Card
-      columns: '3'
-      flip_alt_rows: false
+      columns: '2'
+      flip_alt_rows: true
 
   - block: collection
     content:

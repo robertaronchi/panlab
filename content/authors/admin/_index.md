@@ -17,7 +17,7 @@ organizations:
   - name: Center for Mind/Brain Sciences - University of Trento
     url: https://www.cimec.unitn.it/en/
 
-# Optional external URL for project (replaces project detail page).
+# Optional external URL (replaces detail page).
 external_link: "https://corradocorradi.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
