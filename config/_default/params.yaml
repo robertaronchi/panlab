@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: callab
+theme: ccd_robot
 day_night: false
-font: callab
+font: ccd_robot
 font_size: M
 
 # SEO
