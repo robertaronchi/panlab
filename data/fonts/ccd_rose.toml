@@ -2,7 +2,7 @@
 name = "CCD Rose"
 
 # Optional Google font URL
-google_fonts = "family=Cutive+Mono&family=Lora:wght@400;800&family=Roboto:wght@400;700&display=swap"
+google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@500;700&display=swap"
 
 # Font families
 heading_font = "Lora"
