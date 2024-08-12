@@ -1,6 +1,6 @@
 ---
 title: Theory of Mind
-summary: How the brain represents others' cognitive and affective states
+summary: How the brain represents others' cognitive and affective states.
 tags:
 - Theory of Mind
 - Mentalizing
