@@ -58,16 +58,16 @@ sections:
 
   - block: collection
     content:
-      title: Featured Papers
+      title: Last Papers
       text: ""
-      count: 0
+      count: 5
       filters:
         folders:
           - publication
         publication_type: "2"
         featured: true
     design:
-      view: card
+      view: compact
       columns: '1'
 
   - block: markdown
