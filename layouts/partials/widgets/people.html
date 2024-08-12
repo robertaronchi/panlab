@@ -52,7 +52,6 @@
 
   <div class="col-12 col-sm-auto people-person">
     {{ $src := "" }}
-    {{ $kid_src := "" }}
 
     {{ if site.Params.avatar.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
@@ -60,7 +59,7 @@
       {{ $avatar_image := $avatar.Fill "270x270 Center" }}
       {{ $src = $avatar_image.RelPermalink }}
     {{ end }}
-    {{else if $src }}
+    {{if $src }}
       {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
       {{if and $link $target}}<a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if and $link $target}}</a>{{end}}
     {{ end }}
