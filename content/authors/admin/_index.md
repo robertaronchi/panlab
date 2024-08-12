@@ -16,9 +16,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Cognitive neuroscientist and psychologist with long-lasting experience in the study of the human adult brain, through behavioral measures, electrophysiology and brain imaging. I'm interested in the study of the neural mechanisms underlying pain, personal affect and their interaction with social cognition and decision-making.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-long_bio: I am a Cognitive neuroscientist and psychologist with long-lasting experience in the study of the human adult brain, through behavioral measures, electrophysiology and brain imaging. I'm interested in the study of the neural mechanisms underlying pain, personal affect and their interaction with social cognition and decision-making. I am also invested in understanding the cognitive and neural processes underlying the diagnosis and management of people’s pain. This is a research line with both fundamental and translational relevance, and organized on the following axes; neural/physiological fingerprinting of somatic affect, prediction of real-life pain-management behaviour from brain activity, and effect of attention on pain experience and relief.
+long_bio: Dan was an undergrad computer science major at Carnegie Mellon before completing a PhD in Cognitive Psychology at Indiana University and doing a postdoc in Psych Department at Stanford. He is broadly interested in how we learn from the people around us, and especially how children learn language. Dan is excited about understanding communication and learning from a systems perspective.
 
 website: https://corradocorradi.netlify.app/
 
@@ -45,13 +45,6 @@ social:
   - icon: cloud
     icon_pack: fas
     link: https://bsky.app/profile/ccorradi.bsky.social
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/corrado-corradi/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/CV_ENG.pdf
