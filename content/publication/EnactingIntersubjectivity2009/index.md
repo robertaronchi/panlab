@@ -4,7 +4,7 @@ abstract: Classical economical theory sees rejections of unfair offers by people
 authors:
 - admin
 - Claudia Civai
-- Patrik Vuilleumier
+- Raffaella I. Rumiati
 date: "2009-01-01T00:00:00Z"
 doi: ""
 featured: false
