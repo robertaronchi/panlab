@@ -1,0 +1,50 @@
+{{/* Display author list. */}}
+
+{{- $taxonomy := "authors" }}
+{{ if .Param $taxonomy }}
+  {{$list := (.GetTerms $taxonomy)}}
+  {{$len := (len $list)}}
+
+  {{ range $index, $value := $list }}
+    {{- /* Highlight the author's name? */ -}}
+    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+
+    {{- if gt $index 0 }}, {{ end -}}
+    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+      {{/* Effectively check the page's `_build` option as `_build` is not  exposed in Hugo's Page object. */}}
+
+      {{$nameLength := len (split .LinkTitle " ")}}
+
+      {{$prettyName := ""}}
+
+      {{if eq $nameLength 2}}
+        {{$firstInitial := substr (index (split .LinkTitle " ") 0) 0 1 }}
+        {{$lastName := index (split .LinkTitle " ") 1 }}
+        {{if eq $lastName "Consortium"}}
+          {{$prettyName = .LinkTitle}}
+        {{else}}
+          {{$prettyName = (print $lastName ", " $firstInitial ".")}}
+        {{end}}
+      {{ else }}
+        {{$firstInitial := substr (index (split .LinkTitle " ") 0) 0 1 }}
+        {{$middleInitial := substr (index (split .LinkTitle " ") 1) 0 1 }}
+        {{$lastName := index (split .LinkTitle " ") 2 }}
+        {{$prettyName = (print $lastName ", " $firstInitial "., " $middleInitial ".")}}
+
+      {{ end }}
+
+      {{- if .RelPermalink -}}
+        {{if and (gt $len 1) (eq (add $index 1) $len) }}&{{ end }}
+        <a href="{{.RelPermalink}}">{{$prettyName}}</a>
+      {{- else -}}
+        {{if and (gt $len 1) (eq (add $index 1) $len) }}&{{end}}
+        {{$prettyName}}
+      {{- end -}}
+    </span>
+    {{- if isset $.Params "author_notes" -}}
+      {{- with (index $.Params.author_notes $index) -}}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

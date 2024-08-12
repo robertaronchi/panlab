@@ -1,26 +1,24 @@
 ---
 # Display name
-title: Dan Yurovsky
+title: Claire Bergey
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Principal Investigator
-
-weight: 1
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Mellon University
+- name: The University of Chicago
   url: ""
 
+weight: 2
+
+website: https://clairebergey.net/
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-long_bio: Dan was an undergrad computer science major at Carnegie Mellon before completing a PhD in Cognitive Psychology at Indiana University and doing a postdoc in Psych Department at Stanford. He is broadly interested in how we learn from the people around us, and especially how children learn language. Dan is excited about understanding communication and learning from a systems perspective.
-
-website: https://www.danyurovsky.com
+long_bio: Claire is a fifth-year PhD student in the Cognition program at the University of Chicago, having formerly studied psychology and cognitive science at Williams College. She is interested in language and concept acquisition. Her research centers on how children learn to express and interpret meaning in language that goes beyond what is literally said, and how they integrate what they glean from conversation with their own experience to gain a fuller picture of the world.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -29,13 +27,14 @@ website: https://www.danyurovsky.com
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yurovsky@cmu.edu'
+  link: 'mailto:cbergey@uchicago.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/danyurovsky
+  link: https://twitter.com//clairebergey
 - icon: github
   icon_pack: fab
-  link: https://github.com/dyurovsky
+  link: https://github.com/cbergey
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -46,10 +45,10 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 authors:
-  -yurovsky
+  -bergey
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

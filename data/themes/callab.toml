@@ -1,0 +1,22 @@
+# Theme metadata
+name = "callab"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#f39c12"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#d45026"
+menu_text_active = "#f39c12"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
