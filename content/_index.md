@@ -65,7 +65,6 @@ sections:
       filters:
         folders:
           - project      
-      offset: 0
       order: desc
       page_type: post
     design:
