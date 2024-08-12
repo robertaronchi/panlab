@@ -34,7 +34,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '2'
   
 #  - block: markdown
 #    content:
@@ -58,9 +58,9 @@ sections:
 
   - block: collection
     content:
-      title: Last Papers
+      title: Featured Papers
       text: ""
-      count: 3
+      count: 0
       filters:
         folders:
           - publication
@@ -70,7 +70,7 @@ sections:
         padding: ['20px', '30px', '20px', '0']
     design:
       view: card
-      columns: '1'
+      columns: '2'
 
   - block: tag_cloud
     content: 
@@ -82,11 +82,11 @@ sections:
         # Choose how many tags you would like to display (0 = all tags)
         count: 20
     spacing:
-        padding: ['20px', '10px', '20px', '0']
+        padding: ['20px', '50px', '20px', '0']
     design:
       font_size_min: 0.7
       font_size_max: 2.0
-      columns: '1'
+      columns: '2'
 
   - block: markdown
     content:
@@ -95,6 +95,6 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
-      columns: '1'
+      columns: '2'
 
 ---
