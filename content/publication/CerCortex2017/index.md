@@ -18,7 +18,7 @@ projects: []
 publication: 'Cerebral Cortex, 27, 68-82'
 publication_short: "Cerebral Cortex, 27, 68-82"
 publication_types:
-- ["article-journal"]
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary:

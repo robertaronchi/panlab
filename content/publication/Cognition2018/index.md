@@ -17,7 +17,7 @@ projects: [embody]
 publication: 'Cognition, 181, 1-11'
 publication_short: "Cognition, 181, 1-11"
 publication_types:
-- ["article-journal"]
+- "2"
 publishDate: "2018-12-01T00:00:00Z"
 slides: 
 summary:

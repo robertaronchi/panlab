@@ -20,7 +20,7 @@ projects: [manage]
 publication: 'British Journal of Anaesthesia, 123, e284-e292'
 publication_short: "BJA, 123, e284-e292"
 publication_types:
-- ["article-journal"]
+- "2"
 publishDate: "2019-01-01T00:00:00Z"
 slides: 
 summary:

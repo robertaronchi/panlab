@@ -18,7 +18,7 @@ projects: []
 publication: 'Experimental Brain Research. 194, 259-283'
 publication_short: ""
 publication_types:
-- ["article-journal"]
+- "2"
 publishDate: "2009-01-01T00:00:00Z"
 slides: 
 summary:

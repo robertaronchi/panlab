@@ -14,7 +14,7 @@ projects: []
 publication: 'In: F. Santoianni and C. Sabatano (Eds.), Brain Development In Learning Environments: Embodied Cognition and Perceptual Learning (pp. 50-64). Newcastle, UK: Cambridge Scholar Publishing.'
 publication_short: ""
 publication_types:
-- "Book Chapter"
+- "6"
 publishDate: "2007-01-01T00:00:00Z"
 slides: 
 summary:

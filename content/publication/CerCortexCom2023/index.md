@@ -21,7 +21,7 @@ projects: []
 publication: "Cerebral Cortex Communications, tgad002"
 publication_short: "Cerebral Cortex, tgad002"
 publication_types:
-- ["article-journal"]
+- "2"
 publishDate: "2023-01-11T00:00:00Z"
 slides: 
 summary:

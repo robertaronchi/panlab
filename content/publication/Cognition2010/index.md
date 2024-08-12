@@ -17,7 +17,7 @@ projects: []
 publication: 'Cognition. 114, 89-95'
 publication_short: "Cognition. 114, 89-95"
 publication_types:
-- ["article-journal"]
+- "2"
 publishDate: "10.1016/j.cognition.2009.09.001"
 slides: 
 summary:
