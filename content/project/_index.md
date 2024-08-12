@@ -3,8 +3,7 @@ title: Projects
 
 # Listing view
 view: Card
-columns: '2'
-
+type: portfolio
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
