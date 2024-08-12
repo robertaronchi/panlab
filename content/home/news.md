@@ -3,7 +3,7 @@
 widget: slider
 headless: true  # This file represents a page section.
 
-active: false
+active: true
 
 
 weight: 10
