@@ -66,8 +66,9 @@ sections:
           - publication
         publication_type: "2"
         featured: true
+      offset: 0
     design:
-      view: compact
+      view: card
       columns: '1'
 
   - block: markdown
