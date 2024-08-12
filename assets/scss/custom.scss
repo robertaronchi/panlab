@@ -1,10 +1,13 @@
+/*
 p.people-bio {
   font-size: .6rem;
   text-align: left;}
 
+
 @media (min-width: 992px) {
   .people-widget .col-sm-auto {
     width: 25%; } }
+*/
 
 .col-xl,
 .col-xl-auto, .col-xl-12, .col-xl-11, .col-xl-10, .col-xl-9, .col-xl-8, .col-xl-7, .col-xl-6, .col-xl-5, .col-xl-4, .col-xl-3, .col-xl-2, .col-xl-1, .col-lg,
@@ -19,6 +22,7 @@ p.people-bio {
   background: rgba(255,199,19,.95);
 }
 
+/*
 .dark-mask {
   background: rgba(0, 0, 0, 0.3);
   width: 100%;
@@ -28,6 +32,7 @@ p.people-bio {
   left: 0;
   z-index: 0;
 }
+*/
 
 .hero-title {
   font-size: 2rem;
@@ -126,6 +131,7 @@ h1:after, {
     margin-left: auto;
     margin-right: auto;
 }
+
 @media screen and (max-width: 768px) {
   .home-section {
     padding: 20px 0 20px 0;
