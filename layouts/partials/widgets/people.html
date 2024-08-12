@@ -40,8 +40,8 @@
   {{$target := ""}}
   {{$scheme := ""}}
 
-  {{ if .Params.website}}
-    {{ $link = .Params.website }}
+  {{ if .Params.external_link}}
+    {{ $link = .Params.external_link }}
     {{ $scheme := (urls.Parse $link).Scheme }}
     {{ if not $scheme }}
       {{ $link = $link | relLangURL }}
