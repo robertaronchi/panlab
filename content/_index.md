@@ -66,6 +66,8 @@ sections:
           - publication
         publication_type: "2"
         featured: true
+    spacing:
+        padding: ['20px', '10px', '20px', '0']
     design:
       view: card
       columns: '1'
@@ -80,7 +82,7 @@ sections:
         # Choose how many tags you would like to display (0 = all tags)
         count: 20
     spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '10px', '20px', '0']
     design:
       font_size_min: 0.7
       font_size_max: 2.0
