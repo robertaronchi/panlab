@@ -18,8 +18,8 @@ image:
   focal_point: ""
   preview_only: true
 projects: []
-publication: "Cerebral Cortex Communications, tgad002"
-publication_short: "Cerebral Cortex, tgad002"
+publication: "Cerebral Cortex Communications, 4(1), tgad002"
+publication_short: "Cereb. Cor. Comm., 4(1), tgad002"
 publication_types:
 - "2"
 publishDate: "2023-01-11T00:00:00Z"
