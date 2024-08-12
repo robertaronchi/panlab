@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Pain and Affective Neuroscience # Website name
-baseurl: 'https://panlab.netlify.app/' # Website URL
-copyright: '© 2024 Corrado Corradi-Dell'Acqua' # Footer text, e.g. '© {year} Me'
+title: The Communication and Learning Lab # Website name
+baseurl: 'https://callab.github.io' # Website URL
+copyright: '© 2021 Dan Yurovsky' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
