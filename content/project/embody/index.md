@@ -1,6 +1,6 @@
 ---
 title: Embodying Pain
-summary: How first-hand pain experience shapes social proficiency?
+summary: Embodied models of social cognition argue that representations of first-hand sensorimotor experiences are re-enacted during the interaction with other people, for instance when we empathize with others' suffering or we witness unfair/ostracizing treatments. The goal of this project is to ascertain whether first-hand experiences influence social behavior through sensory-specific processes or supramodal representations of dimensions such as unpleasantness, which are common to many qualitatively different states.
 tags:
 - pain
 - empathy

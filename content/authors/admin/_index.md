@@ -10,7 +10,7 @@ last_name: Corradi˗Dell'Acqua
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
@@ -84,7 +84,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Researchers
 ---
 
 I am a Cognitive neuroscientist and psychologist with long-lasting  experience in the study of the human adult brain, through behavioral measures, electrophysiology and brain imaging. I'm interested in the study of the neural mechanisms underlying pain, personal affect and their interaction with social cognition and decision-making.
