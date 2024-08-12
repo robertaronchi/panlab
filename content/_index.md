@@ -59,20 +59,23 @@ sections:
   - block: collection
     content:
       title: Ongoing Projects
-      text: ""
+      subtitle:
+      text:
+      count: 1
       filters:
         folders:
-          - project
+          - project      
+      offset: 0
+      order: desc
+      page_type: post
     design:
-      view: Card
+      view: card
       columns: '2'
-      flip_alt_rows: true
 
   - block: collection
     content:
       title: Featured Papers
       text: ""
-      count: 0
       filters:
         folders:
           - publication
