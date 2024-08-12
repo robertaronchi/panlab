@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Research
 
 # Listing view
-view: compact
+view: Card
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
