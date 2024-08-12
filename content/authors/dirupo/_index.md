@@ -30,7 +30,7 @@ social:
   link: https://x.com/GiadaDirupo
 - icon: researchgate
   icon_pack: ai
-   link: https://www.researchgate.net/profile/Giada-Dirupo-2
+  link: https://www.researchgate.net/profile/Giada-Dirupo-2
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/giada-dirupo-6a117069/
