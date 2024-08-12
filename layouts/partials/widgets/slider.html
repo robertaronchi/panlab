@@ -2,11 +2,6 @@
 {{ $page := .page }}
 {{ $hash_id := .hash_id }}
 
-{{ $photogrid := (resources.Get "media/photogrid.jpg").Permalink }}
-{{ $style_photogrid := printf "background-image: url('%s'); center center repeat; background-size: cover;" $photogrid }}
-
-<section style="{{$style_photogrid | safeCSS}}" class="relative-positioned">
-
 <div class="dark-mask mask-primary"></div>
 
 <div class="container">
