@@ -5,7 +5,7 @@
 {{ $page := .page }}
 {{ $show_social := $page.Params.design.show_social | default false }}
 {{ $show_interests := $page.Params.design.show_interests | default true }}
-{{ $show_bio := $page.Params.design.show_bio | default true }}
+{{ $show_bio := $page.Params.design.show_bio | default false }}
 {{ $show_organizations := $page.Params.design.show_organizations | default false }}
 {{ $show_role := $page.Params.design.show_role | default true }}
 
@@ -34,7 +34,6 @@
 
   {{ range sort $query "Weight"}}
   {{ $adult_avatar := (.Resources.ByType "image").GetMatch "*adult_avatar*" }}
-  {{ $kid_avatar := (.Resources.ByType "image").GetMatch "*kid_avatar*" }}
 
   {{/* Get link to user's profile page. */}}
   {{$link := ""}}
@@ -60,17 +59,8 @@
     {{ else if $adult_avatar }}
       {{ $adult_avatar_image := $adult_avatar.Fill "270x270 Center" }}
       {{ $src = $adult_avatar_image.RelPermalink }}
-      {{ if $kid_avatar }}
-        {{ $kid_avatar_image := $kid_avatar.Fill "270x270 Center" }}
-        {{ $kid_src = $kid_avatar_image.RelPermalink }}
-      {{ else }}
-        {{ $src = $adult_avatar_image.RelPermalink }}
-      {{ end }}
     {{ end }}
-    {{ if $kid_src }}
-      {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
-      {{if and $link $target}}<a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" onmouseover="this.src='{{$kid_src}}'" onmouseout="this.src='{{$src}}'" alt="Avatar">{{if and $link $target}}</a>{{end}}
-    {{else if $src }}
+    {{if $src }}
       {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
       {{if and $link $target}}<a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if and $link $target}}</a>{{end}}
     {{ end }}
