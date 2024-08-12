@@ -30,8 +30,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:corrado.corradi@outlook.com #'/#contact'
-  - icon: x-twitter
-    icon_pack: fas
+  - icon: x-twitter-brands-solid
+    icon_pack: custom
     link: https://x.com/CorradoCorradiD
   - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
