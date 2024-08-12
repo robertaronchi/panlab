@@ -60,7 +60,7 @@ sections:
     content:
       title: Featured Papers
       text: ""
-      count: 5
+      count: 0
       filters:
         folders:
           - publication
@@ -76,6 +76,19 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
+
+  - block: tag_cloud
+    content: 
+      title: Popular Topics
+      subtitle:
+      content:
+        # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
+        taxonomy: tags
+        # Choose how many tags you would like to display (0 = all tags)
+        count: 20
     design:
       columns: '1'
 ---
