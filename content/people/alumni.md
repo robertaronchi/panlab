@@ -7,16 +7,16 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 70
 
-title: Lab Members
+title: Alumni
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Researchers
+  - Alumni
 design:
   show_bio: false
   show_interests: false

@@ -42,9 +42,9 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@CCD
-  - icon: ccd_bluesky_solid
-    icon_pack: custom
-    link: https://bsky.app/profile/ccorradi.bsky.social
+#  - icon: ccd_bluesky_solid
+#    icon_pack: custom
+#    link: https://bsky.app/profile/ccorradi.bsky.social
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/corrado-corradi/
@@ -56,10 +56,10 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 authors:
-  -Corradi˗Dell'Acqua
+  -Corrado Corradi˗Dell'Acqua
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
