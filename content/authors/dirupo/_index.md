@@ -10,7 +10,7 @@ role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-- name: Now @ The Icahn School of Medicine at Mount Sinai, New York, New York, USA
+- name: Now @ The Icahn School of Medicine at Mount Sinai, New York, USA
   url: ""
 
 weight: 2
