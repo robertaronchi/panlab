@@ -42,12 +42,12 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@CCD
-  - icon: cloud
-    icon_pack: fas
+  - icon: ccd_bluesky_solid
+    icon_pack: custom
     link: https://bsky.app/profile/ccorradi.bsky.social
   - icon: linkedin
     icon_pack: fab
-    link: https://bsky.app/profile/ccorradi.bsky.social
+    link: https://www.linkedin.com/in/corrado-corradi/
   - icon: cv
     icon_pack: ai
     link: uploads/CV_ENG.pdf
