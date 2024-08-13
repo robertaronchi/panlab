@@ -23,7 +23,7 @@ tags: [pain,Unpleasantness,attention,Top-down,Expectancy,Nocebo,Anticipation,Bay
 title: Sensory-specific predictive models in the human anterior insula
 url_code: ""
 url_dataset: ""
-url_pdf: "https://f1000researchdata.s3.amazonaws.com/manuscripts/19643/dd1de68f-637e-4d42-bf56-546e1b055292_17961_-_corrado_corradi-dellacqua.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
