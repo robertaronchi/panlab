@@ -3,7 +3,7 @@ title: Research Projects
 cms_exclude: false
 
 # Listing view
-view: 1
+view: 2
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

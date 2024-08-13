@@ -59,7 +59,7 @@ email: ""
 highlight_name: true
 
 authors:
-  -Corrado Corradi˗Dell'Acqua
+  -Corradi˗Dell'Acqua
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
