@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Giada Dirupo
+title: Lia Antico
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,12 +10,12 @@ role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
-- name: Now @ The Icahn School of Medicine at Mount Sinai, New York, New York, USA
+- name: Now @ Mindfulness Center at Brown University, Providence, Rhode Island, USA
   url: ""
 
 weight: 2
 
-website: https://profiles.mountsinai.org/giada-dirupo
+website: https://mindfulness.sph.brown.edu/
 
 # Short bio (displayed in user profile at end of posts)
 long_bio: 
@@ -25,15 +25,15 @@ long_bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/GiadaDirupo
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://x.com/GiadaDirupo
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Giada-Dirupo-2
+  link: https://www.researchgate.net/profile/Lia-Antico
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/giada-dirupo-6a117069/
+  link: https://www.researchgate.net/profile/Lia-Antico
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -49,7 +49,7 @@ email: ""
 highlight_name: true
 
 authors:
-  -Dirupo
+  -Lia Antico
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
