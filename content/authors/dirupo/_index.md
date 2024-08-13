@@ -49,7 +49,7 @@ email: ""
 highlight_name: true
 
 authors:
-  -Dirupo
+  -Giada Dirupo
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
