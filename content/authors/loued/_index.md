@@ -20,7 +20,7 @@ bio:
 
 long_bio:
 
-website: http://www.zeitheist.org/
+website: http://www.zeitheist.org/about-us/
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
