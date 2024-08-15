@@ -33,6 +33,8 @@ url_video: ""
 slides: ""
 
 show_date: false
+
+share: false
 ---
 
 How we understand emotions felt by other people is a central but still unresolved question in cognitive-affective neuroscience. Many studies

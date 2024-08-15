@@ -38,6 +38,8 @@ url_video: ""
 slides: ""
 
 show_date: false
+
+share: false
 ---
 
 The mechanisms underlying professional pain management. The ability of appropriately diagnosing others’ pain is critical in social communities, and it is a cornerstone for an efficient health care system. Differently from most medical conditions, which are diagnosed on the basis of reliable biomarkers or radiological imaging, pain is an experience that it is difficult to quantify objectively. Consequently, it is often underestimated and undertreated, even in specialized emergency departments. The main goal of this project is to exploit results from fundamental research in social/cognitive psychology and neuroscience, to identify the processes explaining how healthcare providers diagnose and treat pain in hospital environments. Our long-term ambition is to apply our findings to develop of new educational protocols, grounded on solid psychological and neuroscience research, focused at improving pain management in everyday life.

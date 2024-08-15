@@ -41,6 +41,8 @@ url_video: ""
 slides: ""
 
 show_date: false
+
+share: false
 ---
 
 Pain engages and interacts with high-level cognitive processing. For instance, pain typically disrupts attention and impairs performance during cognitive tasks, while distracting someone through a challenging activity has hypoalgesic effects. Instead, other studies suggest that pain and cognitive control interact with one another, whereby exerting one's regulatory abilities through a challenging activity might influence the subsequent pain experience. Overall, the literature at hand suggests that affecting different aspects of executive functions might modulate pain in different fashion. The present project aims at investigating with further detail the interplay between pain and the different facets of one's executive functions, and at identifying the neural circuitry mediating this interaction.
