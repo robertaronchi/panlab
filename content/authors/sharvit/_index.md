@@ -8,7 +8,7 @@ superuser: true
 # Role/position
 role: Doctoral Student
 
-weight: 2
+weight: 3
 
 # Organizations/Affiliations
 organizations:

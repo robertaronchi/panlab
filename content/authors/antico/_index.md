@@ -13,7 +13,7 @@ organizations:
 - name: Now @ Mindfulness Center at Brown University, Providence, Rhode Island, USA
   url: ""
 
-weight: 2
+weight: 5
 
 website: https://mindfulness.sph.brown.edu/
 

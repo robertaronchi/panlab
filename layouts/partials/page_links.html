@@ -158,7 +158,7 @@
 </a>
 {{ end }}
 
-<!--  {{ range $page.Params.links }}
+{{ range $page.Params.links }}
   {{ $pack := or .icon_pack "fas" }}
   {{ $pack_prefix := $pack }}
   {{ if in (slice "fab" "fas" "far" "fal") $pack }}
@@ -181,4 +181,4 @@
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
     {{- with .name }}{{ . | safeHTML }}{{ end -}}
   </a>
-{{ end }} -->
+{{ end }}

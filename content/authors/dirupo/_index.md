@@ -13,7 +13,7 @@ organizations:
 - name: Now @ The Icahn School of Medicine at Mount Sinai, New York, USA
   url: ""
 
-weight: 2
+weight: 4
 
 website: https://profiles.mountsinai.org/giada-dirupo
 
