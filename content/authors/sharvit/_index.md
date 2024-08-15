@@ -8,7 +8,7 @@ superuser: true
 # Role/position
 role: Doctoral Student
 
-weight: 1
+weight: 2
 
 # Organizations/Affiliations
 organizations:
@@ -53,5 +53,5 @@ authors:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
