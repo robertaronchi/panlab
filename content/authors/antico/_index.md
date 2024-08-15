@@ -33,7 +33,7 @@ social:
   link: https://www.researchgate.net/profile/Lia-Antico
 - icon: linkedin
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Lia-Antico
+  link: https://www.linkedin.com/in/lia-antico-phd-2082ab56/
 
 
 # Link to a PDF of your resume/CV from the About widget.

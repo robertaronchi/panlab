@@ -3,7 +3,7 @@ abstract: Pain undertreatment, or oligoanalgesia, is frequent in the emergency d
 authors:
 - admin
 - Maryline Foerster
-- sharvit
+- Gil Sharvit
 - Lionel Trueb
 - Eliane Foucault
 - Yvan Fournier
