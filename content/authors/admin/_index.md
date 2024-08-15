@@ -56,7 +56,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 authors:
   -Corradi˗Dell'Acqua
