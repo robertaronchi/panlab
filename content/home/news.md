@@ -30,7 +30,7 @@ item:
     cta_url: 'https://www.cimec.unitn.it/en'
     cta_icon_pack: fas
     cta_icon: link
-    hero_media: 'manifattura.jpeg'
+    hero_media: 'manifattura.jpg'
     flip: true
 
 #  - title: Megan wins award at BUCLD!
