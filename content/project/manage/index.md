@@ -1,6 +1,5 @@
 ---
 title: Managing Pain
-date: 2020-12-02
 summary: From Cognitive Sciences to Clinical Pactice.
 tags:
 - pain

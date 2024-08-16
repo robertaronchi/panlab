@@ -1,6 +1,5 @@
 ---
 title: Embodying Pain
-date: 2020-12-01
 summary: How first-hand pain experience shapes social proficiency?
 tags:
 - pain
