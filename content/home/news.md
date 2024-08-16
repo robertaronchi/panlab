@@ -16,7 +16,7 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 480px
+height: 500px
 
 
 item:
@@ -30,7 +30,7 @@ item:
     cta_url: 'https://www.cimec.unitn.it/en'
     cta_icon_pack: fas
     cta_icon: link
-    hero_media: 'manifattura.jpg'
+    hero_media: 'manifattura_s.jpg'
     flip: true
 
 #  - title: Megan wins award at BUCLD!
