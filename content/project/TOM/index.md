@@ -5,7 +5,8 @@ tags:
 - Theory of Mind
 - Mentalizing
 - Perspective taking
-- Affective Theory of Mind 
+- Affective Theory of Mind
+- Social cognition 
 date: "2019-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
