@@ -12,7 +12,7 @@ weight: 3
 
 # Organizations/Affiliations
 organizations:
-- name: Now @ Lucerne University of Applied Sciences and Arts
+- name: Now @ Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

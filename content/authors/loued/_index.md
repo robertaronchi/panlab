@@ -12,7 +12,7 @@ weight: 1
 
 # Organizations/Affiliations
 organizations:
-- name: Now @ CHUV Lausanne University Hospital 
+- name: Now @ CHUV Lausanne University Hospital, Lausanne, Switzerland 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

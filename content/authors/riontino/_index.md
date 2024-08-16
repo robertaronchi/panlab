@@ -12,7 +12,7 @@ weight: 2
 
 # Organizations/Affiliations
 organizations:
-- name: Now @ University of Geneva 
+- name: Now @ University of Geneva, Geneva, Switzerland  
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
