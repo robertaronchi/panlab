@@ -21,40 +21,28 @@ height: 480px
 
 item:
 
-  - title: We're back on campus
-    content: 'The Communication and Learning Lab is back open on the CMU campus'
+  - title: The group is active and working at CIMeC!
+    content: 'New location, new exciting projects, new beautiful labs in an historical building in Rovereto'
     align: left
     overlay_color: 'rgba(1,1,1,0)'
     overlay_filter: 0.5
     cta_label: Read more
-    cta_url: 'https://www.cmu.edu/coronavirus/'
+    cta_url: 'https://www.cimec.unitn.it/en'
     cta_icon_pack: fas
     cta_icon: link
-    hero_media: 'baker.jpeg'
+    hero_media: 'manifattura.jpeg'
     flip: true
 
-  - title: Megan wins award at BUCLD!
-    content: 'PhD Student Megan Waller wins a Paula Menuyak Award from the Boston University Conference on Language Development'
-    align: left
-    overlay_color: 'rgba(1,1,1,0)'
-    overlay_filter: 0.5
-    cta_label: Read more
-    cta_url: 'https://www.bu.edu/bucld/travel-hotel/paula-menyuk-award/'
-    cta_icon_pack: fas
-    cta_icon: link
-    hero_media: 'irregulars.png'
-    flip: false
-
-  - title: Claire wins computational modeling prize!
-    content: 'PhD Student Claire Bergey won the Cognitive Science Society Prize for a Computational Model of Language'
-    align: left
-    overlay_color: 'rgba(1,1,1,0)'
-    overlay_filter: 0.5
-    cta_label: Read more
-    cta_url: 'https://cognitivesciencesociety.org/conference-awards/'
-    cta_icon_pack: fas
-    cta_icon: link
-    hero_media: 'com_acts.png'
-    flip: true
+#  - title: Megan wins award at BUCLD!
+#    content: 'PhD Student Megan Waller wins a Paula Menuyak Award from the Boston University Conference on Language Development'
+#    align: left
+#    overlay_color: 'rgba(1,1,1,0)'
+#    overlay_filter: 0.5
+#    cta_label: Read more
+#    cta_url: 'https://www.bu.edu/bucld/travel-hotel/paula-menyuk-award/'
+#    cta_icon_pack: fas
+#    cta_icon: link
+#    hero_media: 'irregulars.png'
+#    flip: false
 
 ---
