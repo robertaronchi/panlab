@@ -50,7 +50,7 @@ social:
     link: https://www.linkedin.com/in/corrado-corradi/
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_ENG.pdf
+    link: uploads/CV_Academic.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
