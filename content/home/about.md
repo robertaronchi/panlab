@@ -17,4 +17,4 @@ Understanding the mechanism underlying the experience of pain and affect is esse
 
 The main objective of this research group is to study, with a multidisciplinary approach, the cognitive processes underlying the experience of pain and affect, in order to shed light to the processes that might improve pain management, and improve the performance of doctors/nurses in hospital settings.
 
-{{< icon name="hand-point-right" pack="fas" >}} Please check all my {{< staticref "research" >}}Research Projects{{< /staticref >}}
+{{< icon name="hand-point-right" pack="fas" >}} Please check all our {{< staticref "research" >}}Research Projects{{< /staticref >}}
