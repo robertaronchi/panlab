@@ -6,15 +6,20 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
-title: "About the Lab"
-subtitle: ""
+title: "Theory of Pain Laboratory"
+subtitle: "Pain and Affective Neuroscience"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
 
-Young children learn the meanings of thousands of words by the time they can run down the street. The computational problem they solve is daunting: extracting discrete word forms from a sequence of continuous speech signals and mapping these forms onto their meanings. Yet, the same children who solve this problem continuously forget where they left their coats and hats. How do children learn language so quickly despite cognitive constraints on memory, attention, and information processing?
+The ability to correctly diagnose the pain of others is essential in society, and is the basis of an effective healthcare system. Unlike most medical conditions, which are diagnosed on the basis of reliable biomarkers or radiological imaging, pain is an experience that is difficult to quantify objectively. As a result, pain is often underestimated and undertreated, even in specialized emergency departments.
 
-Our work tries to resolve this puzzle by reframing language acquisition as a *coordination* problem. The problem is not how children learn language, but how parents and children construct it together.
+An effective diagnosis of pain involves different processes aimed at quickly identifying all relevant information (somatic, behavioral, contextual). This information is the basis for the development of a *Theory of Pain*: a comprehensive model of the patient's most plausible state.
 
-We analyze this coordination by taking an end-to-end approach to understanding early language acquisition, studying it at multiple levels. Our first line of work investigates the representations and algorithms that children and adults bring to the learning problem. Our second line of work investigates the natural ecological contexts in which language acquisition occurs. Finally, our third line of work uses computational models to formalize the interactions between learner and environment. Successes and failures of language learning emerge from the match (or mismatch) between the learning mechanisms available to the child and the structure of the learning environment.
+The main objective of this research group is to study, with a multidisciplinary approach, the cognitive processes underlying the diagnosis of people's pain, which include:
+- Mechanisms for visual inspection of the patient's body, and for the identification of salient diagnostic features (e.g., facial expressions, postures, body markings, etc.).
+- Contextual assessments aimed at identifying the probable cause of the patient's condition (e.g., Is there a medical condition that could explain the pain?).
+- Mentalization processes, aimed at identifying people's most likely mental states, e.g. intentions or beliefs (does the patient intend to exaggerate or minimize his or her behavioral reactions?)
+
+Using the most advanced research techniques in psychology and cognitive neuroscience (behavioral analyses, fMRI, TMS, etc.), this group will examine the role played by these different processes in the diagnosis of pain. This approach will make it possible to identify sources of information explaining diagnostic errors, and could lead to the development of training protocols aimed at improving the performance of doctors/nurses in hospital settings.
