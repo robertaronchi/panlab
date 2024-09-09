@@ -13,13 +13,8 @@ design:
   columns: '1'
 ---
 
-The ability to correctly diagnose the pain of others is essential in society, and is the basis of an effective healthcare system. Unlike most medical conditions, which are diagnosed on the basis of reliable biomarkers or radiological imaging, pain is an experience that is difficult to quantify objectively. As a result, pain is often underestimated and undertreated, even in specialized emergency departments.
+Understanding the mechanism underlying the experience of pain and affect is essential in society, and is the basis of an effective healthcare system. Unlike most medical conditions, which are diagnosed on the basis of reliable biomarkers or radiological imaging, pain is an experience that is difficult to quantify objectively, and is mainly assessed using self-reports and indirect information about its presence. It is therefore not surprising (but still highly problematic), that pain is often misdiagnosed and inadequately treated, even in specialized medical institutions.
 
-An effective diagnosis of pain involves different processes aimed at quickly identifying all relevant information (somatic, behavioral, contextual). This information is the basis for the development of a *Theory of Pain*: a comprehensive model of the patient's most plausible state.
+The main objective of this research group is to study, with a multidisciplinary approach, the cognitive processes underlying the experience of pain and affect, in order to shed light to the processes that might improve pain management, and improve the performance of doctors/nurses in hospital settings.
 
-The main objective of this research group is to study, with a multidisciplinary approach, the cognitive processes underlying the diagnosis of people's pain, which include:
-- Mechanisms for visual inspection of the patient's body, and for the identification of salient diagnostic features (e.g., facial expressions, postures, body markings, etc.).
-- Contextual assessments aimed at identifying the probable cause of the patient's condition (e.g., Is there a medical condition that could explain the pain?).
-- Mentalization processes, aimed at identifying people's most likely mental states, e.g. intentions or beliefs (does the patient intend to exaggerate or minimize his or her behavioral reactions?)
-
-Using the most advanced research techniques in psychology and cognitive neuroscience (behavioral analyses, fMRI, TMS, etc.), this group will examine the role played by these different processes in the diagnosis of pain. This approach will make it possible to identify sources of information explaining diagnostic errors, and could lead to the development of training protocols aimed at improving the performance of doctors/nurses in hospital settings.
+{{< icon name="hand-point-right" pack="fas" >}} Please check all my {{< staticref "#research" >}}Research Projects{{< /staticref >}}
