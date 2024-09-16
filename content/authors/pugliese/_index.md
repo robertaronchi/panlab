@@ -33,7 +33,7 @@ social:
 #  link: https://www.researchgate.net/profile/Ilaria_Mirlisenna
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ilaria-mirlisenna-3189b422b/
+  link: https://www.linkedin.com/in/daniele-pugliese-b98217259/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
