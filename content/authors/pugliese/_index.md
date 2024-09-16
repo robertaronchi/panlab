@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Ilaria Mirlisenna
+title: Daniele Pugliese
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Student
+role: Intern
 
 # Organizations/Affiliations
 organizations:
 - name:
   url: ""
 
-weight: 2
+weight: 4
 
 website:
 
@@ -28,9 +28,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:cbergey@uchicago.edu'
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Ilaria_Mirlisenna
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Ilaria_Mirlisenna
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ilaria-mirlisenna-3189b422b/
@@ -48,7 +48,7 @@ email: ""
 highlight_name: true
 
 authors:
-  -Ilaria Mirlisenna
+  -Daniele Pugliese
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
