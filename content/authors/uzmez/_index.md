@@ -6,7 +6,7 @@ title: Nurefsan Üzmez
 superuser: false
 
 # Role/position
-role: Intern
+role: Internship
 
 # Organizations/Affiliations
 organizations:
