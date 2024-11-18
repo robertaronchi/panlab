@@ -11,7 +11,7 @@ role: Doctoral Student
 # Organizations/Affiliations
 organizations:
 - name:
-  url: ""
+  url: "https://webapps.unitn.it/du/en/Persona/PER0282874/"
 
 weight: 2
 
