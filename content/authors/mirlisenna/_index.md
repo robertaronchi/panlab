@@ -11,11 +11,11 @@ role: Doctoral Student
 # Organizations/Affiliations
 organizations:
 - name:
-  url: "https://webapps.unitn.it/du/en/Persona/PER0282874/"
+  url: 
 
 weight: 2
 
-website:
+website: "https://webapps.unitn.it/du/en/Persona/PER0282874/"
 
 # Short bio (displayed in user profile at end of posts)
 long_bio: 
