@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fabio Campanella
+title: Jordan Grafman
 
 # Is this the primary user of the site?
 superuser: true
@@ -12,7 +12,7 @@ weight: 1
 
 # Organizations/Affiliations
 organizations:
-- name: Azienda Ospedaliera Santa Maria della Misericordia, Udine, Italy
+- name: Northwestern University, Chicago, IL, USA 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,7 +20,7 @@ bio:
 
 long_bio:
 
-website: https://people.uniud.it/page/fabio.campanella
+website: https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=26439
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +35,8 @@ email: ""
 highlight_name: false
 
 authors:
-  -Fabio Campanella
+  -Jordan Grafman
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
