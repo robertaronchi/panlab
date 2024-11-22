@@ -8,7 +8,7 @@ superuser: true
 # Role/position
 role: 
 
-weight: 1
+weight: 3
 
 # Organizations/Affiliations
 organizations:
