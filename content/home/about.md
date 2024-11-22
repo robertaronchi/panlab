@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
-title: Pain and Affective Neuroscience Laboratory"
+title: Pain and Affective Neuroscience Laboratory
 subtitle: ""
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
