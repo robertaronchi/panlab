@@ -10,7 +10,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: []
+projects: [painface]
 publication: 'Quarterly Journal of Experimental Psychology, 76(3) 554-567'
 publication_short: "QJEP, 76(3), 554-567"
 publication_types:

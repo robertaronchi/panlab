@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [manage]
+projects: [manage,painface]
 publication: 'IEEE
 Transactions on Affective Computing, 2022, 13(2), 793-804'
 publication_short: "IEEE Trans. Aff. Comp., 2022, 13(2), 793-804"

@@ -14,7 +14,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [manage,embody,executive_pain]
+projects: [manage,embody,executive_pain,painface]
 publication: 'Scientific Reports, 13, 8165, doi: 10.1038/s41598-023-35103-w'
 publication_short: "Sci. Rep., 13, 8165, doi: 10.1038/s41598-023-35103-w"
 publication_types:

@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [manage]
+projects: [manage,painface]
 publication: 'eLife, 10, e63272'
 publication_short: "eLife, 10, e63272"
 publication_types:

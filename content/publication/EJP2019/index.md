@@ -11,7 +11,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [embody]
+projects: [embody,painface]
 publication: 'European Journal of Pain, 23, 1283-1296'
 publication_short: "Eur J Pain, 23, 1283-1296"
 publication_types:

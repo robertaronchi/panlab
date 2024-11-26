@@ -14,7 +14,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-projects:
+projects: [painface]
 publication: 'Journal of Neuroscience. e2233232024'
 publication_short: "J. Neurosci., e2233232024"
 publication_types:
@@ -22,7 +22,7 @@ publication_types:
 publishDate: "2024-10-22T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,disgust,olfaction,empathy,emotion,Social cognition,fMRI,neuroimaging,decision-making,Social interactions,Facial Expressions,face processing,dMPFC,Prefrontal cortex,Insula,Fusiform Gyrus,Contextual sentences]
+tags: [pain,nociception,disgust,olfaction,empathy,emotion,Social cognition,fMRI,neuroimaging,decision-making,Social interactions,Facial Expressions,face processing,emotion expression,dMPFC,Prefrontal cortex,Insula,Fusiform Gyrus,Contextual sentences]
 title: Parieto-Frontal networks mediate contextual influences in the appraisal of pain and disgust facial expressions
 url_code: ""
 url_dataset: "https://osf.io/zdbrv/"
