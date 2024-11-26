@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: true
-projects: [embody]
+projects: [embody,painface]
 publication: 'Cortex, 130:16-31'
 publication_short: "Cortex, 130:16-31"
 publication_types:

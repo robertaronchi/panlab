@@ -33,16 +33,16 @@ item:
     hero_media: 'manifattura_s.jpg'
     flip: true
 
-#  - title: Megan wins award at BUCLD!
-#    content: 'PhD Student Megan Waller wins a Paula Menuyak Award from the Boston University Conference on Language Development'
-#    align: left
-#    overlay_color: 'rgba(1,1,1,0)'
-#    overlay_filter: 0.5
-#    cta_label: Read more
-#    cta_url: 'https://www.bu.edu/bucld/travel-hotel/paula-menyuk-award/'
-#    cta_icon_pack: fas
-#    cta_icon: link
-#    hero_media: 'irregulars.png'
-#    flip: false
+  - title: Parieto-Frontal networks mediate contextual influences in the appraisal of pain and disgust facial expressions
+    content: 'New in Journal of Neuroscience! Giada Dirupo and an excellent team studied the role played by contextual information on the processing of facial expressions of #pain and #disgust, and associated neural responses.'
+    align: left
+    overlay_color: 'rgba(1,1,1,0)'
+    overlay_filter: 0.5
+    cta_label: Read more
+    cta_url: 'https://panlab.netlify.app/publication/jneurosci2024/'
+    cta_icon_pack: fas
+    cta_icon: link
+    hero_media: ''
+    flip: false
 
 ---
