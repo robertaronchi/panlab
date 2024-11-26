@@ -34,7 +34,7 @@ item:
     flip: true
 
   - title: Parieto-Frontal networks mediate contextual influences in the appraisal of pain and disgust facial expressions
-    content: 'New in Journal of Neuroscience! Giada Dirupo and an excellent team studied the role played by contextual information on the processing of facial expressions of #pain and #disgust, and associated neural responses.'
+    content: 'New in Journal of Neuroscience! Giada Dirupo and an excellent team studied the role played by contextual information on the processing of facial expressions of pain and disgust, and associated neural responses.'
     align: left
     overlay_color: 'rgba(1,1,1,0)'
     overlay_filter: 0.5
@@ -42,7 +42,7 @@ item:
     cta_url: 'https://panlab.netlify.app/publication/jneurosci2024/'
     cta_icon_pack: fas
     cta_icon: link
-    hero_media: ''
+    hero_media: 'Context_Figure_4.png'
     flip: false
 
 ---
