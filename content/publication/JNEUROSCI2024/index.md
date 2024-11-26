@@ -14,7 +14,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-projects: [TOM]
+projects:
 publication: 'Journal of Neuroscience. e2233232024'
 publication_short: "J. Neurosci., e2233232024"
 publication_types:
