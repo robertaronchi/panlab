@@ -6,7 +6,7 @@ title: Daniele Pugliese
 superuser: false
 
 # Role/position
-role: Internship
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
