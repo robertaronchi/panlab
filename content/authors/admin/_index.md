@@ -30,18 +30,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:corrado.corradi@outlook.com #'/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/CorradoCorradiD
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://x.com/CorradoCorradiD
   - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.ch/citations?user=3VqecWgAAAAJ
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
-  - icon: mastodon
-    icon_pack: fab
-    link: https://fediscience.org/@CCD
+#  - icon: mastodon
+#    icon_pack: fab
+#    link: https://fediscience.org/@CCD
 #  - icon: ccd_bluesky_solid
 #    icon_pack: custom
 #    link: https://bsky.app/profile/ccorradi.bsky.social

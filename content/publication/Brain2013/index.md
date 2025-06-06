@@ -23,7 +23,7 @@ publication_types:
 publishDate: "2013-07-01T00:00:00Z"
 slides: 
 summary:
-tags: [apraxia,aphasia,action,motor system,grounded cognition]
+tags: [apraxia,aphasia,action,motor system,grounded cognition,Lesion symptom mapping]
 title: Selective imitation impairments differentially interact with language processing
 url_code: ""
 url_dataset: ""
@@ -33,5 +33,5 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-share: false
+
 ---
