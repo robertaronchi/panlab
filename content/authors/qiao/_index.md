@@ -13,7 +13,7 @@ organizations:
 - name: 
   url: ""
 
-weight: 7
+weight: 6
 
 website:
 
